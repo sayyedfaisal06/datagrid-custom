@@ -66,10 +66,6 @@ npm install
 
 npm run dev
 
-### 3. Visit
-
-http://localhost:5173
-
 ### Mock Dataset
 
 Stored in mockData/employees.ts. It contains 20 static employee entries with the following fields:
